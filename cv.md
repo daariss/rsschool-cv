@@ -16,7 +16,8 @@ I am 24 years old.  I work as a postal operator.  my task is franking letters.  
 + Patience
 + Team playing
 
----------
+-------
+
 ## Skills:
 + HTML
 + CSS (SASS/SCSS, BEM)
@@ -25,7 +26,8 @@ I am 24 years old.  I work as a postal operator.  my task is franking letters.  
 + VS Code
 + Figma, Photoshop
 
--------
+--------
+
 ## Code Examples
 #### 7 kyu - String ends with?
 ```
